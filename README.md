@@ -5,12 +5,6 @@ Built using **GLFW**, **GLEW**, and **GLM**, this project demonstrates modern sh
 
 ---
 
-## 🎥 Preview
-
-https://github.com/<your-username>/<your-repo>/assets/preview.gif  
-*(Add a short screen recording or screenshot of your cube here!)*
-
----
 
 ## ✨ Features
 
